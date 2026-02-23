@@ -109,21 +109,12 @@ Grazie all'analisi in Python, abbiamo ottenuto i seguenti risultati:
 
 
 
----
-
-## 📊 Business Intelligence (Power BI Integration)
-I risultati dell'analisi Python sono stati importati in Power BI per creare una dashboard interattiva:
-* **Segment Distribution:** Visualizzazione della dimensione di ogni gruppo (Champions vs Hibernating).
-* **Monetary vs Frequency:** Scatter plot per identificare visivamente i cluster di valore.
-* **Trend Analysis:** Analisi temporale degli acquisti per capire i periodi di picco.
-
-
 
 ---
 
 ## 🚀 Repository Content
 * `/notebooks`: Jupyter Notebook con il codice Python per il calcolo RFM e scoring.
 * `/data`: Dataset pulito pronto per la visualizzazione.
-* `/reports`: Screenshot e file `.pbix` della dashboard finale.
+
 
 
