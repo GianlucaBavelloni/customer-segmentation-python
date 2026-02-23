@@ -64,4 +64,5 @@ I risultati dell'analisi Python sono stati importati in Power BI per creare una 
 
 
 ![RFM](output.png)
+![RFM](Immagine 2026-02-23 150502.jpg)
 
