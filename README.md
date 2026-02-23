@@ -116,5 +116,5 @@ Grazie all'analisi in Python, abbiamo ottenuto i seguenti risultati:
 * `/notebooks`: Jupyter Notebook con il codice Python per il calcolo RFM e scoring.
 * `/data`: Dataset pulito pronto per la visualizzazione.
 
-
+![RFM](output.png)
 
