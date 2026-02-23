@@ -60,9 +60,9 @@ I risultati dell'analisi Python sono stati importati in Power BI per creare una 
 * `/notebooks`: Jupyter Notebook con il codice Python per il calcolo RFM e scoring.
 * `/data`: Dataset pulito pronto per la visualizzazione.
 
-
+![RFM](Immagine 2026-02-23 150502.png)
 
 
 ![RFM](output.png)
-![RFM](Immagine 2026-02-23 150502.jpg)
+
 
